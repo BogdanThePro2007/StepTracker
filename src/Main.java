@@ -5,7 +5,8 @@ public class Main {
 
         // git add "название файла который мы изменили"
         // git commit -m "сообщение которое опиывает наше изменение"
-        // git push - комманда отправки на githu
+        // git push - комманда отправки на github
+
         Scanner scanner = new Scanner(System.in);
         StepTracker stepTracker = new StepTracker();
 
