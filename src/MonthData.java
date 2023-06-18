@@ -1,8 +1,8 @@
 public class MonthData {
 
-    private int stepAmount;
+    private int stepAmount = 12340;
     private int stepGoal;
-    private int[] stepMonthData;
+    private int[] stepMonthData = new int[30];
 
     public int getStepAmount() {
         return stepAmount;
